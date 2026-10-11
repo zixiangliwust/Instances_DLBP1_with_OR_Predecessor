@@ -1,0 +1,57 @@
+<number of tasks>
+11
+<cycle time>
+94
+<Cost of running a workstation per unit time>
+0.05
+<Fix start-up cost of each workstation>
+3.00
+<Recycling value>
+1 26
+2 21
+3 13
+4 25
+5 4
+6 27
+7 7
+8 25
+9 22
+10 24
+11 15
+<Cost of performing task>
+1 14.2
+2 3.4
+3 11.2
+4 5.0
+5 11.6
+6 10.9
+7 4.6
+8 14.0
+9 11.4
+10 8.8
+11 13.4
+<task times>
+1 4
+2 38
+3 45
+4 12
+5 10
+6 8
+7 12
+8 10
+9 2
+10 10
+11 34
+<Precedence relations>
+1 4 1
+2 4 1
+2 5 1
+3 11 1
+4 6 1
+5 7 1
+6 8 1
+7 9 1
+8 10 1
+9 10 1
+10 11 1
+<end>

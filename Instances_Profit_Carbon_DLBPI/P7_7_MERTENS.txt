@@ -1,0 +1,56 @@
+<number of tasks>
+7
+<cycle time>
+7
+<Cost of running a workstation per unit time>
+0.05
+<Fix start-up cost of each workstation>
+1.00
+<Recycling value>
+1 2
+2 6
+3 6
+4 6
+5 7
+6 2
+7 4
+<Cost of performing task>
+1 1.2
+2 5.0
+3 2.8
+4 1.5
+5 3.0
+6 3.8
+7 3.5
+<GHG saved when resuing part>
+1 35.5
+2 1.1
+3 19.4
+4 25.1
+5 7.5
+6 7.7
+7 32.6
+<GHG produced when removing part>
+1 0.6
+2 0.2
+3 0.5
+4 0.9
+5 0.1
+6 0.0
+7 0.7
+<task times>
+1 1
+2 5
+3 4
+4 3
+5 5
+6 6
+7 5
+<precedence relations>
+1 2 1
+1 4 1
+2 3 1
+2 5 1
+4 7 1
+5 6 1
+<end>
