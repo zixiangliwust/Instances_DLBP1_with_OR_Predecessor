@@ -20,7 +20,7 @@
 6 0
 7 1
 8 0
-<Demand>
+<demand>
 1 25
 2 53
 3 86
@@ -29,7 +29,7 @@
 6 19
 7 34
 8 73
-<Precedence relations>
+<precedence relations>
 1 2 1
 2 3 1
 2 4 1

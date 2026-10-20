@@ -2,11 +2,11 @@
 45
 <cycle time>
 62
-<Cost of running a workstation per unit time>
+<cost of running a workstation per unit time>
 0.05
-<Fix start-up cost of each workstation>
+<fix start up cost of each workstation>
 3.00
-<Recycling value>
+<recycling value>
 1 6
 2 22
 3 11
@@ -52,7 +52,7 @@
 43 19
 44 20
 45 16
-<Cost of performing task>
+<cost of performing task>
 1 9.8
 2 12.3
 3 11.4
@@ -98,7 +98,7 @@
 43 9.0
 44 10.1
 45 4.1
-<GHG saved when resuing part>
+<ghg saved when resuing part>
 1 8.4
 2 10.1
 3 4.0
@@ -144,7 +144,7 @@
 43 3.9
 44 33.9
 45 1.0
-<GHG producted when removing part>
+<ghg producted when removing part>
 1 0.6
 2 0.3
 3 0.6

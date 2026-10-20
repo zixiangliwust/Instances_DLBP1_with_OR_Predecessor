@@ -300,7 +300,7 @@
 146 0
 147 0
 148 1
-<Demand>
+<demand>
 1 78
 2 88
 3 29
@@ -449,7 +449,7 @@
 146 95
 147 37
 148 61
-<Precedence relations>
+<precedence relations>
 1 5 1
 1 6 1
 1 7 1

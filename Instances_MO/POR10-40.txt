@@ -1,7 +1,7 @@
 <number of tasks>
 11
 <cycle time>
-40 
+40
 <task times>
 1 14
 2 10
@@ -26,7 +26,7 @@
 9 0
 10 0
 11 0
-<Demand>
+<demand>
 1 0
 2 500
 3 0
@@ -38,7 +38,7 @@
 9 360
 10 0
 11 0
-<Precedence relations>
+<precedence relations>
 2 11 2
 3 11 2
 8 4 1

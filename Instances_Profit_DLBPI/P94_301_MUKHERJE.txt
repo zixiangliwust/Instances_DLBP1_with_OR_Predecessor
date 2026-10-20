@@ -2,11 +2,11 @@
 94
 <cycle time>
 301
-<Cost of running a workstation per unit time>
+<cost of running a workstation per unit time>
 0.05
-<Fix start-up cost of each workstation>
+<fix start up cost of each workstation>
 9.00
-<Recycling value>
+<recycling value>
 1 39
 2 74
 3 66
@@ -101,7 +101,7 @@
 92 23
 93 74
 94 29
-<Cost of performing task>
+<cost of performing task>
 1 11.8
 2 21.3
 3 31.6
@@ -291,7 +291,7 @@
 92 115
 93 103
 94 54
-<Precedence relations>
+<precedence relations>
 1 2 1
 1 3 1
 1 4 1

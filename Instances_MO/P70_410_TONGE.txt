@@ -144,7 +144,7 @@
 68 1
 69 1
 70 1
-<Demand>
+<demand>
 1 21
 2 50
 3 25
@@ -215,7 +215,7 @@
 68 70
 69 33
 70 25
-<Precedence relations>
+<precedence relations>
 1 2 1
 1 41 1
 1 69 1
